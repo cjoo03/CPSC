@@ -1,26 +1,4 @@
-1. Personal Information
-a. Chris Joo
-b. 2395418
-c. cjoo@chapman.edu
-d. CPSC 350-03
-e. Assignment 5
-
-2. Files Submitted
-
-BST.h
-DoublyList.h
-Faculty.cpp
-Faculty.h
-FacultyDatabase.cpp
-FacultyDatabase.h
-Menu.cpp
-Menu.h
-Student.cpp
-Student.h
-main.cpp
-
-
-3. No known compile or runtime errors
+No known compile or runtime errors
 
 4. References Used
 - https://www.geeksforgeeks.org/friend-class-function-cpp/#
